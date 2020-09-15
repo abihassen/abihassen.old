@@ -6,6 +6,6 @@ description: 'A few years ago, while visiting or, rather, rummaging about Notre-
 featured_image: ''
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/abilogo.png" title="My Logo" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+I am an attorney, technologist, and co-founder of the Black Movement-Law Project, a legal support rapid response group that grew out of the uprisings in Ferguson, Baltimore, and elsewhere. I am currently a partner at O’Neill and Hassen LLP, a law practice focused on indigent criminal defense. Prior to this current work, I was the Mass Defense Coordinator at the National Lawyers Guild. I have also worked as a political campaign manager and strategist, union organizer, and community organizer. I conducts trainings, speaks, and writes on topics of race, technology, (in)justice, and the law.

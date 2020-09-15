@@ -1,10 +1,10 @@
-baseURL: "http://example.org/"
+baseURL: "http://abihassen.com/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Abi Hassen Personal Site"
 
 module:
   imports:
-    - path: github.com/theNewDynamic/gohugo-theme-ananke
+    - path: github.com:abihassen/abihassen.github.io
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
@@ -18,9 +18,9 @@ sitemap:
 params:
   favicon: ''
   site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  description: A Personal Site
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: 'https://twitter.com/abihassen'
   instagram: ''
   youtube: ''
   github: ''
@@ -31,5 +31,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image: /images/oxygen.jpg
   recent_posts_number: 2

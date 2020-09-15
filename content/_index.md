@@ -5,4 +5,4 @@ description: "\"Mask no difficulties, mistakes, failures. Claim no easy victorie
   \                   ― Amilcar Cabral,"
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my site. Here you will find some of my past and current work, and some relevant information about me.
